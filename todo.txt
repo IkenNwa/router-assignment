@@ -1,0 +1,21 @@
+Assignment 2
+
+// Task 1
+
+  --Setup react-router
+//
+
+// Task 2
+
+  --Implement Nested routes
+//
+
+// Task 3
+
+  --404 page
+//
+
+// Task 4
+
+  --Error boundary
+//
